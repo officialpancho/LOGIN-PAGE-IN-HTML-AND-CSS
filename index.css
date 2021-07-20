@@ -1,0 +1,61 @@
+html,body{
+    height: 100%;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+    background-color: #96e9eb;
+    font-size: 20px;
+}
+
+div{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    display: inline-block;
+    margin-top: 5%;
+    width: 60%;
+    height: 80%;
+}
+#sep{
+    height: 5px;
+    background-color: transparent;
+    
+}
+form{
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    height: 70%;
+}
+
+input{
+    background-color: #e6e6e6;
+}
+
+#nice{
+    width: 70%;
+}
+
+a{
+    float: right;
+}
+
+button{
+    clear: both;
+    width: 100%;
+    height: 50px;
+    background-color: blue
+}
+
+h2{
+    color: blue;
+}
+
+
+
+h3{
+    color: #555555;
+}
